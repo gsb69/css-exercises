@@ -1,0 +1,16 @@
+.reddy{
+    background-color: rgb(255, 148, 166);
+    font-family: "Verdana","DejaVu Sans",sans-serif;
+}
+#second{
+    color: rgb(25, 0, 255);
+    font-size: 36px;
+}
+#third{
+    font-size: 24px;
+}
+#fourth{
+    background-color: rgb(124, 212, 124);
+    font-size: 24px;
+    font-weight: bold;
+}
